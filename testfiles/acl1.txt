@@ -1,0 +1,9 @@
+# file: data.txt
+# owner: alice
+# group: maroons
+user::rw-
+user:cathy:rwx
+group::rwx
+group:bleus:r-x
+mask::rw-
+other::r--
